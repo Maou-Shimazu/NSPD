@@ -9,5 +9,11 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.10"
+  },
+  "dependencies": {
+    "@vuikit/icons": "^0.8.1",
+    "@vuikit/theme": "^0.8.1",
+    "vue": "^3.2.39",
+    "vuikit": "^0.8.10"
   }
 }
