@@ -1,14 +1,9 @@
-import React from 'react';
-import './App.css';
-import Login from './components/login';
+import React from "react";
+import "./App.css";
+
 
 const App: React.FC = () => {
-  return (
-    <div className="App">
-      {/* Hellow World */}
-      <Login />
-    </div>
-  );
-}
+	return <div>hello</div>;
+};
 
 export default App;
